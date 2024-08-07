@@ -1,10 +1,10 @@
 # Privacy-Policy
 
-[Mass Mute Specialist] Privacy Policy
-Last Updated: [7th of August, 2024]
+Mass Mute Specialist Privacy Policy
+Last Updated: 7th of August, 2024
 
 1. Introduction
-Welcome to [Mass Mute Specialist]! This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our bot. By using [Mass Mute Specialist], you agree to the collection and use of information in accordance with this policy.
+Welcome to Mass Mute Specialist! This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our bot. By using Mass Mute Specialist, you agree to the collection and use of information in accordance with this policy.
 
 3. Information We Collect
 We may collect and store the following types of information:
@@ -32,4 +32,4 @@ We retain your data only for as long as is necessary to fulfill the purposes out
 We may update this Privacy Policy from time to time. When we do, we will post the updated policy in the bot’s official server. Your continued use of the bot after changes have been made constitutes your acceptance of the updated policy.
 
 9. Contact Information
-If you have any questions or concerns about this Privacy Policy, please contact us at the official server: [https://discord.com/invite/dQ377Y4] or directly at Discord: [asmadiel].
+If you have any questions or concerns about this Privacy Policy, please contact us at the official server: https://discord.com/invite/dQ377Y4 or directly at Discord: asmadiel.
