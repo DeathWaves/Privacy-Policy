@@ -14,10 +14,10 @@ Usage Data: We may collect data on how the bot is used, including command usage 
 3. How We Use Your Information
 The information we collect is used for the following purposes:
 
-Bot Operation: To provide, maintain, and improve the bot’s functionality.
-Analytics: To analyze usage patterns to improve the bot and develop new features.
-User Support: To assist users with any issues they encounter while using the bot.
-Legal Compliance: To comply with applicable laws, regulations, and legal processes.
+- Bot Operation: To provide, maintain, and improve the bot’s functionality.
+- Analytics: To analyze usage patterns to improve the bot and develop new features.
+- User Support: To assist users with any issues they encounter while using the bot.
+- Legal Compliance: To comply with applicable laws, regulations, and legal processes.
 
 4. Data Sharing and Disclosure
 We do not sell, trade, or otherwise transfer your personal data to outside parties without your consent.
