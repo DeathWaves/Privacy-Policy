@@ -32,4 +32,4 @@ We retain your data only for as long as is necessary to fulfill the purposes out
 We may update this Privacy Policy from time to time. When we do, we will post the updated policy in the bot’s official server. Your continued use of the bot after changes have been made constitutes your acceptance of the updated policy.
 
 9. Contact Information
-If you have any questions or concerns about this Privacy Policy, please contact us at the official server: https://discord.com/invite/dQ377Y4 or directly at Discord: asmadiel.
+If you have any questions or concerns about this Privacy Policy, please contact us at the official Discord server: https://discord.com/invite/dQ377Y4 or with me directly at Discord: asmadiel.
