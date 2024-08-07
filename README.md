@@ -9,7 +9,7 @@ Welcome to Mass Mute Specialist! This Privacy Policy explains how we collect, us
 3. Information We Collect
 We may collect and store the following types of information:
 
-Usage Data: We may collect data on how the bot is used, including command usage frequency, error logs, and other diagnostic data.
+- Usage Data: We may collect data on how the bot is used, including command usage frequency, error logs, and other diagnostic data.
 
 3. How We Use Your Information
 The information we collect is used for the following purposes:
