@@ -34,6 +34,7 @@ All error logs are stored locally and contain no personal data. Reasonable measu
 No personal user data is retained.
 
 7. Changes to This Privacy Policy
+
 We may update this Privacy Policy from time to time. When we do, we will post the updated policy in the bot’s official server. Your continued use of the bot after changes have been made constitutes your acceptance of the updated policy.
 
 8. Contact Information
